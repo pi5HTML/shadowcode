@@ -1,4 +1,4 @@
-# 🌑 ShadowCode v3
+#  ShadowCode v3
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
