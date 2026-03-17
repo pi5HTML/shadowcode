@@ -2,6 +2,8 @@
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
+v3.2, auto updates via github (can be disabled in settings), rail fence and settings tab added
+
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
 * **Dual Encryption:** Supports layering multiple encryption methods for extra security.
@@ -12,6 +14,3 @@ ShadowCode is a lightweight, self-contained HTML utility designed for encrypting
 * HTML5 / Tailwind CSS
 * JavaScript (ES6+)
 * AI Assistance (Logic & Refinement)
-
----
-*Disclaimer: This tool is intended for basic message obfuscation and fun (because why not send encrypted messages to people)
