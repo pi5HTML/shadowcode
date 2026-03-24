@@ -7,7 +7,7 @@ v3.4: I have added ShadowGlyph cipher, it is just a simple Glyph but is only sup
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
 * **Dual Encryption:** Supports layering multiple encryption methods for extra security.
-* **Multiple Ciphers:** Built-in support for Vigenère, Atbash, Index Substitution, Shift amd rail (new) ciphers.
+* **Multiple Ciphers:** Built-in support for Vigenère, Atbash, Index Substitution, Shift, custom Glyph (ShadowGlyph) and rail ciphers.
 * **Portable:** No installation required—just open the `.html` file in any web browser.
 
 ###  Built With
