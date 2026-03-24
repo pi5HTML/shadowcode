@@ -1,8 +1,8 @@
-#  ShadowCode v3.3
+#  ShadowCode v3.4
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
-v3.3: i have fixed rail 7, added a help menu and made a easy to use side bar which cleans up the UI
+v3.4: I have added ShadowGlyph cipher, it is just a simple Glyph but is only supported by shadowcode, also UI diffrences fixed+a few small bugs like rail errors not showing in logs are fixed
 
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
