@@ -1,8 +1,8 @@
-#  ShadowCode v3.4
+#  ShadowCode v3.5
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
-v3.4: I have added ShadowGlyph cipher, it is just a simple Glyph but is only supported by shadowcode, also UI diffrences fixed+a few small bugs like rail errors not showing in logs are fixed
+v3.5: I have added ShadowGlyph to the dual tab and given dual support for it in the auto tab, added a  new fast mode to the auto tab, it is just as reliable, on by defult, but can turned off in settings, it now can do 50000 words in the speed and time it takes for 10.
 
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
