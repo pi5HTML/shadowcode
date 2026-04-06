@@ -2,11 +2,11 @@
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
-v3.6: i have added a new tab: keyless Vigenère, ok, it can take a very long time in some cases but it works very well, it uses webworkers and is as simple as possible to try to cut time, it solves Vigenère if you dont have a key, very fast at solveing Vigenère with a key of 1-5, 6-7 takes a little while but still not to long,8+ will take very very long.
+v3.6: i have added a new tab: keyless Vigenère, ok, it can take a very long time in some cases but it works very well, it uses webworkers and is as simple as possible to try to cut time, it solves Vigenère if you dont have a key, very fast at solveing Vigenère with a key of 1-5, 6-7 takes a little while but still not to long, 8+ will take very very long.
 
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
-* **Keyless-Vigenère:** Supports solving Vigenère without a key, it is very reliable but can take 1-15min on standered ones, but for long keywords it can take a few hours, even days.
+* **Keyless-Vigenère:** Supports solving Vigenère without a key.
 * **Dual Encryption:** Supports layering multiple encryption methods for extra security.
 * **Multiple Ciphers:** Built-in support for Vigenère, Atbash, Index Substitution, Shift, custom Glyph (ShadowGlyph) and rail ciphers.
 * **Portable:** No installation required—just open the `.html` file in any web browser.
