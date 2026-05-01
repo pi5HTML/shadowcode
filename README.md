@@ -1,8 +1,8 @@
-#  ShadowCode v3.7.1
+#  ShadowCode v3.8
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
 
-v3.7.1: In this update i have just done a few simple things: added wordbase v2.6 and fixed a few bugs
+v3.8: lots of small stuff from a move button to take things from one tab to another, new help buttons, diffrent percentage UI, tab heading that changes, favicon and LOTS more
 
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
