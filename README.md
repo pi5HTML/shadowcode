@@ -1,11 +1,12 @@
-#  ShadowCode v3.8
+#  ShadowCode v3.9
 
-ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages. 
+ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages and files. 
 
-v3.8: lots of small stuff from a move button to take things from one tab to another, new help buttons, diffrent percentage UI, tab heading that changes, favicon and LOTS more
+v3.9: added file encrytion so you can encrypt and decrypt files, it decrypts useing the first line of the file and the file extention, becasue every .HTML, every .PDF will have the same first line, BUT, this means that not that many files are supported, but more will come later.
 
 ###  Features
 * **Auto-Analysis Engine:** Automatically detects and cracks ciphers like Atbash and Shift by scoring them against an English word base.
+* **file encryption:** Automatically encrypt and decrypt files.
 * **Keyless-Vigenère:** Supports solving Vigenère without a key.
 * **Dual Encryption:** Supports layering multiple encryption methods for extra security.
 * **Multiple Ciphers:** Built-in support for Vigenère, Atbash, Index Substitution, Shift, custom Glyph (ShadowGlyph) and rail ciphers.
