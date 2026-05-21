@@ -10,7 +10,7 @@ v3.9: added file encrytion so you can encrypt and decrypt files, it decrypts use
 - **Keyless Vigenère** — Solve Vigenère ciphers without a key.
 - **Dual Encryption** — Layer multiple ciphers for extra complexity.
 - **Multiple Ciphers** — Includes Vigenère, Atbash, Index Substitution, Shift, ShadowGlyph, and Rail ciphers.
-- **Portable** — No installation required; works directly in your browser.
+- **Portable** — No installation required; works directly in your browser, note: dose need wifi for tailwind (UI formating).
 
 ## Built With
 - HTML5
