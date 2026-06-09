@@ -21,9 +21,9 @@ v4: added morce code, new multi tab, updated the UI a bit, lots of other small t
 ## Getting Started
 1. Download the HTML file  
 2. Open it in your browser  
-3. Start encrypting or decrypting  
+3. And then encrypt you messages  
 
 Updates are built into the UI — ShadowCode can notify you when a new version is available.
 
 ## Feedback
-UX is a major focus of ShadowCode. If something feels confusing or you have a feature idea, feedback is always welcome.
+UX is my buggest focus. If something feels confusing or you have a feature idea, feedback is always welcome.
