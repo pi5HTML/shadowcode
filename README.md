@@ -1,8 +1,8 @@
-#  ShadowCode v4
+#  ShadowCode v4.1
 
 ShadowCode is a lightweight, self-contained HTML utility designed for encrypting and decrypting everyday messages and files. 
 
-v4: added morce code, new multi tab, updated the UI a bit, lots of other small things.
+v4.1: Instant algorithm for keyless Vigenère and a few small UI and logic updates
 
 ## Features
 - **Auto-Analysis Engine** — Automatically detects and cracks ciphers like Atbash and Shift using English word scoring.
